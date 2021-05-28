@@ -1,0 +1,12 @@
+.main {
+    margin: 0px auto;
+    padding-top: 30px;
+    max-width: 80%;
+    text-align: center;
+}
+
+@media (max-width: 400px) {
+    .main {
+        max-width: 90%;
+    }
+}

@@ -1,0 +1,13 @@
+.buybutton {
+    border-radius: 10px;
+    height: 3em;
+    width: 8em;
+    background-color: lightskyblue;
+    border: none;
+    box-shadow: 7px 7px 3px lightcyan;
+    border: 2px solid lightslategray;
+}
+
+.buybutton:hover {
+    background-color: lightblue;
+}
