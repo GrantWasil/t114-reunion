@@ -1,7 +1,9 @@
 import React from "react";
 import './Main.css';
 
+// Import React Components
 import BuyButton from '../BuyButton/BuyButton';
+
 function Main() {
   return (
     <>
